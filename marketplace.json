@@ -1,0 +1,46 @@
+{
+    "schemaVersion": 1,
+    "name": "hnuma1979 copilot-marketplace",
+    "displayName": "hnuma1979 Copilot Marketplace",
+    "description": "hnuma1979 Copilot Marketplace",
+    "publisher": "hnuma1979",
+    "repository": "https://github.com/hnuma1979/copilot-marketplace",
+    "source": {
+        "source": "github",
+        "repo": "hnuma1979/copilot-marketplace"
+    },
+    "version": "1.0.2",
+    "license": "MIT",
+    "tags": [
+        "copilot",
+        "marketplace"
+    ],
+    "categories": [
+        "productivity",
+        "tools",
+        "java"
+    ],
+    "plugins": [
+        {
+            "name": "springboot-copilot",
+            
+            "description": "A Spring Boot plugin for reactive JDBC operations",
+            "repository": "https://github.com/hnuma1979/springboot-copilot",
+            "license": "MIT",
+            "tags": [
+                "springboot",
+                "reactive",
+                "jdbc",
+                "plugin"
+            ],
+            "categories": [
+                "productivity",
+                "tools"
+            ],
+            "source": {
+                "source": "github",
+                "repo": "hnuma1979/springboot-copilot"
+            }
+        }
+    ]
+}

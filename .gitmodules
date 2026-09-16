@@ -1,0 +1,3 @@
+[submodule "plugins/hnuma1979/springboot-copilot"]
+	path = plugins/hnuma1979/springboot-copilot
+	url = git@github.com:hnuma1979/springboot-copilot.git
